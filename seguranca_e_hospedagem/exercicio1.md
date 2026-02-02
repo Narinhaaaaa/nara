@@ -4,10 +4,10 @@ Imagine um restaurante. Existem três figuras: o **Cliente**, o **Garçom** (que
 
 Associe as ações abaixo com **Request (Pedido)** ou **Response (Resposta)**:
 
-1. Você escolhe a pizza e fala para o garçom: ___________
-2. O cozinheiro prepara a pizza e o garçom traz até a sua mesa: ___________
-3. Você pergunta se tem refrigerante gelado: ___________
-4. O garçom volta e diz que o refrigerante acabou: ___________
+1. Você escolhe a pizza e fala para o garçom: request___________
+2. O cozinheiro prepara a pizza e o garçom traz até a sua mesa: _response__________
+3. Você pergunta se tem refrigerante gelado: ____request_______
+4. O garçom volta e diz que o refrigerante acabou: ____response_______
 
 ---
 
